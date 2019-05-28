@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="post-dao" />
+        <module name="post-domain" />
+        <module name="post-service" />
+        <module name="post-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="post" target="9" />
+      <module name="post-dao" target="1.8" />
+      <module name="post-domain" target="1.8" />
+      <module name="post-service" target="1.8" />
+      <module name="post-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

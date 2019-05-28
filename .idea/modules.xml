@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/post.iml" filepath="$PROJECT_DIR$/post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/post-dao/post-dao.iml" filepath="$PROJECT_DIR$/post-dao/post-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/post-domain/post-domain.iml" filepath="$PROJECT_DIR$/post-domain/post-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/post-service/post-service.iml" filepath="$PROJECT_DIR$/post-service/post-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/post-web/post-web.iml" filepath="$PROJECT_DIR$/post-web/post-web.iml" />
+    </modules>
+  </component>
+</project>
